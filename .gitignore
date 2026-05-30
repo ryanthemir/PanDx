@@ -1,0 +1,25 @@
+# Miniconda installer
+Miniconda3-*.sh
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+venv/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Data / model outputs
+*.nii
+*.nii.gz
+*.pkl
+*.pth
+*.pt
